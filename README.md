@@ -5,6 +5,7 @@ title: "Hello!"
 # Hello!
 
 这是一个[[spinoza]]的双链花园版本的[[ethics]] [[伦理学]]。
+使用[gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden/).
 
 ### 原子的命名方式：[[伦理学]]中文标题——[[ethics]]英文标题——原子命名中的简写——(zh/en)
 - 部分——Part——P.
